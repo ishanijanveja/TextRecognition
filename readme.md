@@ -4,7 +4,7 @@ This repository consists of two directories - **TextImageGenerator** and **CRNN*
 used to generate text images from a dictionary that you may provide. On the other hand, CRNN contains the code-base for training and testing a CRNN model to recognise/transcribe the text in images. 
 
 To get started, clone this repository and install the dependencies listed in requirements.txt.
-Alternatively, just run `pip install -r requirements.tx` to install all the required dependencies.
+Alternatively, just run `pip install -r requirements.txt` to install all the required dependencies.
 
 To generate the data, follow steps mentioned in the readme present in TextImageGenerator.
 
